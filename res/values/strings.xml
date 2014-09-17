@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pangasinan Mobile Disaster Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lisrt">ListActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+
+    <string-array name="items">
+        <item>Home</item>
+        <item>Camera</item>
+        <item>List of Report</item>
+        <item>List of Tips</item>
+        <item>List of Information</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_tips_">Tips_Activity</string>
+    <string name="title_activity_map">MapActivity</string>
+
+</resources>
